@@ -20,6 +20,7 @@ IUSE=""
 
 ruby_add_rdepend "dev-ruby/extlib
 	>=dev-ruby/json-1.4.4
+	dev-ruby/yajl-ruby
 	dev-ruby/mixlib-cli
 	dev-ruby/mixlib-config
 	dev-ruby/mixlib-log
